@@ -1,0 +1,148 @@
+@media  screen and (min-width:1px) and (max-width:1024px) {
+   .nav .n2{
+   display: none;
+  
+   } 
+   .nav #bar{
+    display: inline;
+    /* margin-left: 600px; */
+   }
+.nav{
+    display: flex;
+    padding-left: 150px;
+}
+
+}
+
+@media screen and (min-width:1px) and (max-width:450px){
+    .nav{
+        display: flex;
+        padding-left:100px;
+    }
+}
+
+@media screen and (min-width:1px) and (max-width:250px){
+    .nav{
+        display: flex;
+        padding-left:50px;
+    }
+}
+@media screen and (min-width:530px) and (max-width:930px){
+        #img1{
+            height: 500px;
+            /* width: 50%; */
+        }
+        .d1{
+            justify-content: center;
+            align-items: center;
+        }
+        
+
+}
+.con12{
+    height: 900px; width: 100%; background-color: rgb(248, 249, 251); padding-top: 150px; 
+}
+.con121{
+    height: 700px; width: 100%px;
+}
+.ii1 img{
+    height: 200px; width: 300px;
+}
+@media screen and (min-width:230px) and (max-width:800px){
+    .ii1 img{
+        height: 150px;width: 200px;
+        margin-left: 50px;
+    }
+    .con12{
+        /* background-color: white; */
+        width:850px;
+    }
+  .i1{
+   
+    margin-right: 200px;
+  }
+    #i1{
+        display: none;
+    }
+}
+#text{
+    text-align: center;
+}
+#t1{
+    display: flex; gap: 10px; margin-left: 550px;
+}
+#t1 button{
+    height: 50px; width: 100px; background-color: transparent;
+}
+#mcon{
+    display: flex; justify-content: center; gap: 30px;
+}
+#img2 img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;;
+}
+@media screen and (min-width:230px) and (max-width:1070px){
+#t1{
+    margin-left: 180px;
+}
+#img2 img{
+    height: 50px;
+    width: 50px;
+}
+#txt1 h2{
+    font-size: 10px;
+}
+#txt1 h3{
+    font-size: 10px;
+}
+#mcon{
+    gap: 0px;
+    justify-content: space-evenly;
+}
+.ii2{
+    margin-left: 110px;
+}
+
+.i2 img{
+    height: 100px;
+    width: 100px;
+}
+#i3{
+    display: none;
+}
+.gal2 img{
+    height: 400px;
+    height: 400px;
+}
+.gal1{
+    margin-left: 230px;
+}
+}
+.gal2{
+    display: flex; flex-wrap: wrap;  
+}
+.gal2 div{
+    margin-left: 260px;
+}
+.gal2 img{
+    width: 300px; height: 300px;
+}
+
+#news{
+    height: 900px; width: 100%; background-color: rgb(248, 249, 251); padding-top: 150px;
+}
+.ii2{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin-left: 220px;
+    gap: 20px;
+}
+.i2{
+    height: 500px;
+    width: 300px;
+}
+.i2 img{
+    height: 200px; width: 300px;
+}
